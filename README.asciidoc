@@ -80,3 +80,13 @@ Perhaps start with link:doc/ffcast.1.pod#examples[EXAMPLES].
 ////
 vim:ts=2:sw=2:syntax=asciidoc:et:spell:spelllang=en_us:cc=80:
 ////
+
+Fedora Build
+------------
+README of the dependencies needed to build on fedora
+
+This is a temporary build for Fedora-SoC
+
+```
+# dnf install ffmpeg autoconf automake
+```
